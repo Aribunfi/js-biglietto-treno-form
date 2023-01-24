@@ -40,3 +40,14 @@ else {
 console.log(costoBiglietto);
 
 document.getElementById('outputMessage').innerHTML = "costo biglietto: " + costoBiglietto;
+
+var element = document.getElementById("calculateBtn");
+
+element.addEventListener (
+    'click' ,
+
+    
+    function {
+
+    }
+);
